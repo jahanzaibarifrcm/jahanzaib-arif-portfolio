@@ -96,3 +96,58 @@ Available for professional opportunities and healthcare revenue cycle projects.
     <li>Healthcare Billing</li>
   </ul>
 </section>
+<section id="services">
+  <h2>Services I Offer</h2>
+
+  <div class="card-container">
+
+    <div class="card">
+      <h3>Medical Billing</h3>
+      <p>
+        Accurate claim preparation, submission, correction and
+        follow-up to support timely reimbursement.
+      </p>
+    </div>
+
+    <div class="card">
+      <h3>Accounts Receivable</h3>
+      <p>
+        AR follow-up, aging analysis and outstanding account
+        resolution to improve collections.
+      </p>
+    </div>
+
+    <div class="card">
+      <h3>Denial Management</h3>
+      <p>
+        Denial investigation, identification of root causes,
+        appeals and claim resubmission.
+      </p>
+    </div>
+
+    <div class="card">
+      <h3>Insurance Follow-up</h3>
+      <p>
+        Insurance claim status verification, payer follow-up
+        and resolution of outstanding claims.
+      </p>
+    </div>
+
+    <div class="card">
+      <h3>Payment Posting</h3>
+      <p>
+        Accurate posting and reconciliation of insurance and
+        patient payments.
+      </p>
+    </div>
+
+    <div class="card">
+      <h3>RCM Support</h3>
+      <p>
+        Revenue Cycle Management support focused on improving
+        billing accuracy and reducing outstanding AR.
+      </p>
+    </div>
+
+  </div>
+</section>
