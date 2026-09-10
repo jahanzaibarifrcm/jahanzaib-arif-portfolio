@@ -81,3 +81,18 @@ Available for professional opportunities and healthcare revenue cycle projects.
     and improving the overall healthcare revenue cycle.
   </p>
 </section>
+<section id="skills">
+  <h2>Professional Skills</h2>
+
+  <ul>
+    <li>Medical Claims Processing</li>
+    <li>Accounts Receivable (AR) Management</li>
+    <li>Denial Management & Resolution</li>
+    <li>Insurance Verification & Follow-up</li>
+    <li>Payment Posting</li>
+    <li>EOB / ERA Analysis</li>
+    <li>Appeals & Reconsiderations</li>
+    <li>Revenue Cycle Management (RCM)</li>
+    <li>Healthcare Billing</li>
+  </ul>
+</section>
