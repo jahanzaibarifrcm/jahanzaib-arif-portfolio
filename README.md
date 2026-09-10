@@ -62,3 +62,22 @@ Available for professional opportunities and healthcare revenue cycle projects.
 
   <a href="YOUR-LINKEDIN-LINK">💼 LinkedIn</a>
 </section>
+<section id="about">
+  <h2>About Me</h2>
+
+  <p>
+    I am a Medical Billing and Revenue Cycle Management Specialist
+    with 3+ years of experience in healthcare billing and RCM.
+  </p>
+
+  <p>
+    My expertise includes claims management, accounts receivable,
+    denial management, payment posting, insurance follow-up,
+    EOB/ERA analysis, appeals, and revenue cycle management.
+  </p>
+
+  <p>
+    I focus on accurate billing, timely follow-ups, denial resolution,
+    and improving the overall healthcare revenue cycle.
+  </p>
+</section>
