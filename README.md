@@ -39,3 +39,26 @@ My focus is on improving the healthcare revenue cycle through accurate billing, 
 Medical Billing & RCM Specialist
 
 Available for professional opportunities and healthcare revenue cycle projects.
+
+<section id="contact">
+  <h2>Contact Me</h2>
+
+  <p>
+    Interested in working together or discussing a Medical Billing
+    and Revenue Cycle Management opportunity?
+  </p>
+
+  <p>
+    I am available for Medical Billing, AR Management,
+    Denial Management, Claims Management, Payment Posting,
+    and Insurance Follow-up projects.
+  </p>
+
+  <a href="mailto:jahanzaibarif.rcm@gmail.com">📧 Email Me</a>
+  <br><br>
+
+  <a href="https://wa.me/03129771668">📱 WhatsApp Me</a>
+  <br><br>
+
+  <a href="YOUR-LINKEDIN-LINK">💼 LinkedIn</a>
+</section>
