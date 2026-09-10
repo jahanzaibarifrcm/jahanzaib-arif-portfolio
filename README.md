@@ -170,3 +170,42 @@ Available for professional opportunities and healthcare revenue cycle projects.
     </ul>
   </div>
 </section>
+<section id="achievements">
+  <h2>Key Strengths & Achievements</h2>
+
+  <div class="card-container">
+
+    <div class="card">
+      <h3>AR Management</h3>
+      <p>
+        Effectively managed outstanding accounts and prioritized
+        follow-ups based on aging and claim status.
+      </p>
+    </div>
+
+    <div class="card">
+      <h3>Denial Resolution</h3>
+      <p>
+        Investigated denial reasons and worked toward appropriate
+        corrections, appeals and resubmissions.
+      </p>
+    </div>
+
+    <div class="card">
+      <h3>Claims Accuracy</h3>
+      <p>
+        Focused on accurate claim processing and timely submission
+        to help reduce avoidable billing issues.
+      </p>
+    </div>
+
+    <div class="card">
+      <h3>Insurance Follow-up</h3>
+      <p>
+        Maintained consistent payer follow-up to resolve outstanding
+        claims and support timely reimbursement.
+      </p>
+    </div>
+
+  </div>
+</section>
