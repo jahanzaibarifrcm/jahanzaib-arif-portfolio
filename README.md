@@ -151,3 +151,22 @@ Available for professional opportunities and healthcare revenue cycle projects.
 
   </div>
 </section>
+<section id="experience">
+  <h2>Professional Experience</h2>
+
+  <div class="card">
+    <h3>Medical Billing & RCM Specialist</h3>
+    <p><strong>3+ Years of Professional Experience</strong></p>
+
+    <ul>
+      <li>Managed medical billing and revenue cycle activities from claim submission through payment.</li>
+      <li>Performed insurance follow-up on outstanding and aging accounts.</li>
+      <li>Investigated and resolved claim denials and billing issues.</li>
+      <li>Reviewed EOBs and ERAs to identify payment discrepancies and denial reasons.</li>
+      <li>Performed accurate payment posting and account reconciliation.</li>
+      <li>Worked on AR aging and prioritized accounts based on outstanding balances and claim status.</li>
+      <li>Supported claim corrections, resubmissions, appeals and reconsiderations.</li>
+      <li>Maintained accuracy and timely follow-up throughout the revenue cycle.</li>
+    </ul>
+  </div>
+</section>
