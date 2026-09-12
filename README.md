@@ -223,6 +223,8 @@ Available for professional opportunities and healthcare revenue cycle projects.
         Medical Billing & RCM Specialist
         <br><br>
         📧 Email: <a href="mailto:jahanzaibarif.rcm@gmail.com">jahanzaibarif.rcm@gmail.com</a><br>
-        📱 WhatsApp: <a href="https://wa.me/923129771668" target="_blank">0312-9771668</a>
+        📱 WhatsApp: <a href="https://wa.me/923129771668" 
+        target="_blank">0312-9771668</a>
+        💼 LinkedIn: <a href="https://www.linkedin.com/in/jahanzaib-arif-5905ab337" target="_blank">Jahanzaib Arif</a>
     </p>
 </section>
