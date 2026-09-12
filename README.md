@@ -179,10 +179,7 @@ Available for professional opportunities and healthcare revenue cycle projects.
       <h3>AR Management</h3>
       <p>
         Effectively managed outstanding accounts and prioritized
-        follow-ups based on aging and claim status.
-      </p>
-    </div>
-
+        follow-ups based on aging and claim sta
     <div class="card">
       <h3>Denial Resolution</h3>
       <p>
